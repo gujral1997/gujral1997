@@ -19,7 +19,7 @@ Hi there, I'm **Ansh Gujral** a **Software Engineer** 🚀  from Jalandhar, Punj
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Fontend Engineer with [Gamezop](http://gamezop.com/) working on Web (Both Frontend and Backend) projects;
+- 👨🏽‍💻 I’m currently a Fontend Engineer at [Gamezop](http://gamezop.com/) working on Web (Both Frontend and Backend) projects;
 - 🌱 I’m currently learning Golang, Functional Architecture Patterns, System Designs, Networking and Streams; 
 - 💼 I’m a Bachelor in Computer Enginering from [Thapar Institute, Patiala](http://www.thapar.edu/);
 - 💬 Ask me about anything, I am happy to help;
