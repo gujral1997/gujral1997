@@ -43,5 +43,5 @@ Hi there, I'm **Ansh Gujral** a **Software Engineer** 🚀  from Jalandhar, Punj
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-**PS:** If you have seen two react logos in the language and tools, you are a good observer 😉 and the other logo stands for React Native! <br/>
+**PS:** If you have seen two react logos in the language and tools, you are a good observer 😉&nbsp; and the other logo stands for React Native! <br/>
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=gujral1997&show_icons=true&hide_border=true)
