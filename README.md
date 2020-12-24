@@ -15,7 +15,7 @@
 
 Hi there, I'm **Ansh Gujral** a **Software Engineer** 🚀  from Jalandhar, Punjab, India. 🙍🏽‍♂️ [@gujral1997](https://github.com/gujral1997)
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://lh3.googleusercontent.com/proxy/eMHREGNvPeqNpGpZUmy_aI6vZwisIY545pq4Mv8w2UdMlBfGYBkEjtuQy74mb-Isev-4K_UNQ6kVIQ" />
 
 **Talking about Personal Stuffs:**
 
