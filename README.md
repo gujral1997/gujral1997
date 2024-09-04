@@ -7,7 +7,7 @@
   <img align="left" alt="Stack Overflow" width="22px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
 </a>
 <a href="https://www.x/gujral1997">
-  <img align="left" alt="Ansh's Twitter" width="22px" src="https://image.flaticon.com/icons/svg/889/889147.svg](https://banner2.cleanpng.com/20240119/sut/transparent-x-logo-logo-brand-identity-company-organization-black-background-white-x-logo-for-1710916376217.webp" />
+  <img align="left" alt="Ansh's Twitter" width="22px" src="https://banner2.cleanpng.com/20240119/sut/transparent-x-logo-logo-brand-identity-company-organization-black-background-white-x-logo-for-1710916376217.webp" />
 </a>
 
 <br />
